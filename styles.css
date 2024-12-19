@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(232, 188, 185);
+    color: #fff;
+}
+.navbar {
+    background-color: rgb(67, 46, 84);
+}
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+.card {
+    background-color: rgb(75, 67, 118);
+    border: none;
+}
+.card-title {
+    color: rgb(232, 188, 185);
+}
+.footer {
+    background-color: rgb(174, 68, 90);
+    text-align: center;
+    padding: 20px 0;
+}
+.qazqazqaz{
+    width: 900px;
+}
+.qweqweqwe{
+    width: 300px;
+}
+.align{
+    text-align: center;
+    color: black;
+}
+
